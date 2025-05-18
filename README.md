@@ -84,11 +84,9 @@ Given a receipt image, the system might return:
 
 ## 📋 Deliverables
 
-* ✅ Python script (`main.py`)
+* ✅ Python script
 * ✅ README documentation
-* ✅ Sample test images (optional)
+* ✅ Sample test images
 * ✅ Short report on approach and challenges (not included here)
 
 ---
-
-Feel free to modify and expand the project for your personal or academic needs!
